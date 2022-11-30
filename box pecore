@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  width: 320px;
+  padding: 10px;
+  border: 10px solid rgb(255, 0, 0);
+  margin: 10px;
+}
+</style>
+</head>
+<body>
+
+<h2>pecora 1</h2>
+
+<img src="1.jfif" width="350" height="263" alt="Klematis">
+<html>
+<head>
+<style>
+div {
+  width: 320px;
+  padding: 10px;
+  border: 10px solid rgb(0, 255, 225);
+  margin: 10px;
+}
+</style>
+</head>
+<body>
+
+<h2>pecora 2</h2>
+
+<img src="2.jfif" width="350" height="263" alt="Klematis">
+
+<html>
+<head>
+<style>
+div {
+  width: 320px;
+  padding: 10px;
+  border: 10px solid rgb(255, 0, 0);
+  margin: 10px;
+}
+</style>
+</head>
+<body>
+
+<h2>pecora 3</h2>
+
+<img src="3.jfif" width="350" height="263" alt="Klematis">
+
+<html>
+<head>
+<style>
+div {
+  width: 320px;
+  padding: 10px;
+  border: 10px solid rgb(255, 0, 255);
+  margin: 10px;
+}
+</style>
+</head>
+<body>
+
+<h2>pecora 4</h2>
+
+<img src="4.jfif" width="350" height="263" alt="Klematis">
+
+<html>
+<head>
+<style>
+div {
+  width: 320px;
+  padding: 10px;
+  border: 10px solid rgb(47, 255, 0);
+  margin: 10px;
+}
+</style>
+</head>
+<body>
+
+<h2>pecora 5</h2>
+
+<img src="5.jfif" width="350" height="263" alt="Klematis">
+
+<html>
+<head>
+<style>
+div {
+  width: 320px;
+  padding: 10px;
+  border: 10px solid rgb(34, 0, 255);
+  margin: 10px;
+}
+</style>
+</head>
+<body>
+
+<h2>pecora 6</h2>
+
+<img src="6.jfif" width="350" height="263" alt="Klematis">
+
+
+<html>
+<head>
+<style>
+div {
+  width: 320px;
+  padding: 10px;
+  border: 10px solid rgb(238, 255, 0);
+  margin: 10px;
+}
+</style>
+</head>
+<body>
+
+<h2>pecora 7</h2>
+
+<img src="7.jfif" width="350" height="263" alt="Klematis">
+
+
+
+
+
+
+
+
+
+
+</body>
